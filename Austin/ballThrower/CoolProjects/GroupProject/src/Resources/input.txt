@@ -1,0 +1,31 @@
+<Term>
+<Word> Future </Word>
+<Definition> Gucci Flip Flops</Definition>
+</Term>
+<Term>
+<Word> Bonzo </Word>
+<Definition> Paula</Definition>
+</Term>
+<Term>
+<Word> W </Word>
+<Definition> Ellis</Definition>
+</Term>
+<Term>
+<Word> Dabb </Word>
+<Definition> Also Ellis</Definition>
+</Term>
+<Term>
+<Word> Hotline Bling </Word>
+<Definition> You used to call me on my cellphone </Definition>
+</Term>
+<Term>
+<Word> Flonzo </Word>
+<Definition> Graham </Definition>
+</Term>
+<Term>
+<Word> Shelby </Word>
+<Definition> Cara 2.0 </Definition>
+</Term>
+		
+		
+		
